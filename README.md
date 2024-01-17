@@ -29,12 +29,6 @@ Describe la organización del proyecto en diferentes carpetas:
 - Numpy
 - plotly
 
-## Estructura de Carpetas
-Rutas de organización del proyecto en diferentes carpetas:
-
-- ETL: Contiene scripts y archivos relacionados con la extracción, transformación y carga de datos "Homicidios-Lesiones".
-- EDA: Archivos y notebooks para el análisis exploratorio de datos "Homicidios-Lesiones".
-- Data: Archivos resultantes tras el proceso de limpieza de datos, sub-carpetas "csv-excel".
 ## Pasos Realizados
 Pasos implementados a cabo en este proyecto:
 
