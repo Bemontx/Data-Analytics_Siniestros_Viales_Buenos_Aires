@@ -30,7 +30,7 @@ Describe la organización del proyecto en diferentes carpetas:
 - plotly
 
 ## Estructura de Carpetas
-Describe la organización del proyecto en diferentes carpetas:
+Rutas de organización del proyecto en diferentes carpetas:
 
 - ETL: Contiene scripts y archivos relacionados con la extracción, transformación y carga de datos "Homicidios-Lesiones".
 - EDA: Archivos y notebooks para el análisis exploratorio de datos "Homicidios-Lesiones".
