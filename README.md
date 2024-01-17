@@ -28,6 +28,7 @@ Describe la organización del proyecto en diferentes carpetas:
 - Pandas
 - Numpy
 - plotly
+- Tableau
 
 ## Pasos Realizados
 Pasos implementados a cabo en este proyecto:
