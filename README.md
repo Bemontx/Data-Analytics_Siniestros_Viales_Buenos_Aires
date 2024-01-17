@@ -33,7 +33,7 @@ Describe la organización del proyecto en diferentes carpetas:
 ## Pasos Realizados
 Pasos implementados a cabo en este proyecto:
 
-- Análisis tecnicp de archivos ".
+- Análisis tecnico de archivos "xlsx".
 - Limpieza de datos identificando nulos y campos vacios, duplicados.
 - Implementación de info adicional "Lesiones".
 - Visualización de datos atra vez de analisis exploratorio "EDA".
