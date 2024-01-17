@@ -25,6 +25,8 @@ Describe la organización del proyecto en diferentes carpetas:
 - EDA: Archivos y notebooks para el análisis exploratorio de datos "Homicidios-Lesiones".
 - Data: Archivos resultantes tras el proceso de limpieza de datos, sub-carpetas "csv-excel".
 ## Tecnologías Utilizadas
+![Static Badge](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=yellow&labelColor=blue)
+
 - Pandas
 - Numpy
 - plotly
